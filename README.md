@@ -2,7 +2,7 @@
 
 I build.
 
-Right now I'm building [Aqen.ai](https://aqen.ai) — the AI cofounder system. You bring the idea. Aqen brings everything else: legal, finance, marketing, ops, all coordinated. Like having a cofounder who's built it all before.
+Right now I'm building [Aqen.ai](https://aqen.ai) — the AI cofounder that builds the company, not the stack. Start it, run it, grow it, fund it, exit it: one system that coordinates legal, finance, marketing, and ops across every business function. Like having a cofounder who's built it all before.
 
 [Grazier Ventures](https://grazierventures.com) is the holding company for the portfolio of companies I'll build using Aqen. Aqen is the first.
 
