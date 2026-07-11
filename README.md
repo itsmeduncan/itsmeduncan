@@ -1,14 +1,14 @@
 ## Duncan Grazier
 
-I build.
+CTO, advisor, builder.
 
-Right now I'm building [Aqen.ai](https://aqen.ai) — the AI cofounder that builds the company, not the stack. Start it, run it, grow it, fund it, exit it: one system that coordinates legal, finance, marketing, and ops across every business function. Like having a cofounder who's built it all before.
+Through [TideHelm](https://tidehelm.io) — my advisory practice — I work with founders, CTOs, and investors at the decisions that define the next chapter: the first VP of Engineering hire, post-Series B scaling, technical diligence on a portfolio company, a CTO succession, and what AI actually changes about the org.
 
-[Grazier Ventures](https://grazierventures.com) is the holding company for the portfolio of companies I'll build using Aqen. Aqen is the first.
+I write every Tuesday at [itsmeduncan.com](https://itsmeduncan.com) about AI implementation, engineering leadership, and what it actually takes to build at scale.
 
-I also run [TideHelm](https://tidehelm.io) — the advisor founders, investors, and CTOs call before the hardest decisions.
+And I build [Aqen.ai](https://aqen.ai) — a lean, AI-native product: an AI cofounder that coordinates the non-product work of starting a company — legal, finance, marketing, ops. Built independent and sustainable. It sits under [Grazier Ventures](https://grazierventures.com), the holding company for what I build.
 
-Previously Chief AI Officer at [BuildOps](https://buildops.com) ($1B unicorn). Scaled Weedmaps from 30 to 300+ engineers through IPO. Led ShopKeep technology through a $550M acquisition.
+Previously Chief AI Officer at [BuildOps](https://buildops.com) ($1B unicorn). Scaled Weedmaps from 30 to 300+ engineers through a NASDAQ IPO. Led ShopKeep through a $550M acquisition by Lightspeed.
 
 ### What I'm Thinking About
 
@@ -18,6 +18,7 @@ Previously Chief AI Officer at [BuildOps](https://buildops.com) ($1B unicorn). S
 
 ### Where to Find Me
 
+- **Advisory:** [tidehelm.io](https://tidehelm.io) — how I work with founders, CTOs, and investors
 - **Blog:** [itsmeduncan.com](https://itsmeduncan.com) — weekly on AI implementation + engineering leadership
 - **LinkedIn:** [in/itsmeduncan](https://linkedin.com/in/itsmeduncan)
 - **Podcast:** [InfoQ — Transforming Software Engineering Culture](https://www.infoq.com/podcasts/transforming-software-engineering-culture-leadership/)
