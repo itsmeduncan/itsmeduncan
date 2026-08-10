@@ -2,9 +2,9 @@
 
 Founder, mentor, writer.
 
-I'm building **[Whelk](https://getwhelk.com)** — your private AI. A native app for people who run their own models, on iPhone, iPad, Mac, and Android. It points at models you already control, on-device or on your own servers. Your conversations stay on hardware you own. No Whelk servers. No account. No telemetry.
+I'm building **[Whelk](https://getwhelk.com)**. Your private AI. A native app for people who run their own models, on iPhone, iPad, Mac, and Android. It points at models you already control, on-device or on your own servers. Your conversations stay on hardware you own. No Whelk servers. No account. No telemetry.
 
-Through [TideHelm](https://tidehelm.io) I work with founders, investors, and CTOs at the decisions that shape an engineering org for the next two to three years — the first VP of Engineering hire, post-Series B scaling, a platform rewrite, technical diligence, a CTO succession.
+Through [TideHelm](https://tidehelm.io) I work with founders, investors, and CTOs at the decisions that shape an engineering org for the next two to three years: the first VP of Engineering hire, post-Series B scaling, a platform rewrite, technical diligence, a CTO succession.
 
 I write every week or two at [itsmeduncan.com](https://itsmeduncan.com) about AI implementation, engineering leadership, and what it actually takes to build at scale.
 
@@ -18,7 +18,7 @@ Previously Chief AI Officer & CTO at [BuildOps](https://buildops.com) ($1B unico
 
 ### Where to Find Me
 
-- **Whelk:** [getwhelk.com](https://getwhelk.com) — your private AI
-- **Advisory:** [tidehelm.io](https://tidehelm.io) — how I work with founders, CTOs, and investors
+- **Whelk:** [getwhelk.com](https://getwhelk.com), your private AI
+- **Advisory:** [tidehelm.io](https://tidehelm.io), how I work with founders, CTOs, and investors
 - **Writing:** [itsmeduncan.com](https://itsmeduncan.com)
 - **LinkedIn:** [in/itsmeduncan](https://linkedin.com/in/itsmeduncan)
