@@ -2,7 +2,7 @@
 
 Founder & CEO, [Whelk](https://getwhelk.com). Your hardware. Your models.
 
-**Whelk** is open, sovereign AI. Native apps on Mac, iPhone, iPad, Android, and Linux point at models you control, on-device or on your own server. It is open core, private by default, and secure by design: no Whelk servers, no account, no telemetry. It scales from one phone to a whole team on one server, with a paid Enterprise tier on top.
+**Whelk** is open, sovereign AI. Native apps on Mac, iPhone, iPad, Android, and Linux point at models you control, on-device or on your own server. It is open core, private by default, and secure by design: no Whelk servers, no account, no telemetry. It scales from one phone to a whole team on one server, free and open for everyone. Enterprise is coming soon.
 
 I also run **[Mentorship & Advisory](https://itsmeduncan.com/mentorship/)** for founders, investors, and CTOs at the decisions that shape an engineering org: the first VP of Engineering hire, post-Series B scaling, a platform rewrite, technical diligence, a CTO succession.
 
